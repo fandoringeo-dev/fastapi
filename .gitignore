@@ -18,4 +18,5 @@ __pycache__/
 /Jinja2 примеры.md
 /jinja2.md
 /Параметры FastAPI.py
-/test.py   
+/test.py
+/Pydantic.py   
